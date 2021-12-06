@@ -41,8 +41,4 @@ export default {
     title: 'Animation',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=16`
   },
-  fetchTV: {
-    title: 'TV Movie',
-    url: `/discover/movie?api_key=${API_KEY}&with_genres=10770`
-  },
 }
